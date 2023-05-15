@@ -1,0 +1,13 @@
+List repositories from github account
+
+USAGE:
+  ghm list <OUTPUT>
+
+OUTPUT:
+  Output file (default: STDOUT).
+
+FLAGS:
+  --public  List only public repositories
+  --private List only private repositories
+  (no flag) List all repositories
+

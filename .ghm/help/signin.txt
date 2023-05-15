@@ -1,0 +1,5 @@
+Sign in to github account
+
+USAGE:
+  ghm signin
+

@@ -1,0 +1,5 @@
+Unistall github manager
+
+USAGE:
+  ghm uninstall
+

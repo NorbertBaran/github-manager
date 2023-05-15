@@ -1,0 +1,15 @@
+Make repositories private
+
+USAGE:
+  ghm private <REPOSITORIES>
+
+REPOSITORIES:
+  File with list of repositories (default: NONE).
+
+LEARN MORE:
+  Each line of <REPOSITORIES> file should be defined according to the pattern:
+  <USERNAME>/<REPOSITORY>
+  Use 'ghm list' To see current list of repositories.
+
+  To make private all repositories use --private-all and --force flags (not recommended).
+

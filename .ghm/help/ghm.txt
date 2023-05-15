@@ -1,0 +1,17 @@
+Github repositories manager
+
+USAGE:
+  ghm <command>
+
+COMMANDS:
+  signin:    Sign in to github account
+  list:      List repositories
+  clone:     Clone repositories
+  public:    Make repositories public
+  private:   Make repositories private
+  delete:    Delete repositories
+  uninstall: Unistall github manager
+
+LEARN MORE:
+  Use ghm <command> --help for more information about command.
+
